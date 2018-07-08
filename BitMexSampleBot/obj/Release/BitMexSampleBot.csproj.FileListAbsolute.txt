@@ -1,0 +1,14 @@
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Release\BitMexSampleBot.exe.config
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Release\BitMexSampleBot.exe
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Release\BitMexSampleBot.pdb
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Release\websocket-sharp-with-proxy-support.dll
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Release\BitMexSampleBot.csprojResolveAssemblyReference.cache
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Release\BitMexSampleBot.Form1.resources
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Release\BitMexSampleBot.Properties.Resources.resources
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Release\BitMexSampleBot.csproj.GenerateResource.cache
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Release\BitMexSampleBot.csproj.CoreCompileInputs.cache
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Release\BitMexSampleBot.csproj.CopyComplete
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Release\BitMexSampleBot.exe
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Release\BitMexSampleBot.pdb

@@ -1,0 +1,52 @@
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe.config
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.csprojResolveAssemblyReference.cache
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.Form1.resources
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.Properties.Resources.resources
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.GenerateResource.Cache
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\BitMexSampleBot.pdb
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.exe
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.pdb
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe.config
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.exe
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.pdb
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\BitMexSampleBot.pdb
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.csprojResolveAssemblyReference.cache
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.Form1.resources
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.Properties.Resources.resources
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.GenerateResource.Cache
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe.config
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\BitMexSampleBot.pdb
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe.CodeAnalysisLog.xml
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe.lastcodeanalysissucceeded
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.csprojResolveAssemblyReference.cache
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.Form1.resources
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.Properties.Resources.resources
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.GenerateResource.cache
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.CoreCompileInputs.cache
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.CopyComplete
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.exe
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.2\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.pdb
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe.config
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\BitMexSampleBot.pdb
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.Form1.resources
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.Properties.Resources.resources
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.GenerateResource.cache
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.CoreCompileInputs.cache
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.CopyComplete
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.exe
+C:\Users\rene_\Downloads\Trading\algo trading\Code\C#\Visual Studio\BitMexBot-master V2.21\BitMexBot-master V2.2\BitMexSampleBot\obj\Debug\BitMexSampleBot.pdb

@@ -1,0 +1,1596 @@
+2018-07-08 01:15:48.371 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:15:50.371 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:15:53.367 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:15:56.365 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:15:59.363 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:01.361 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:04.369 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:07.366 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:09.362 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:12.360 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:15.362 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:17.386 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:20.376 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:23.384 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:25.407 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:28.427 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:31.421 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:33.422 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:36.422 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:38.408 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:41.411 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:44.425 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:46.420 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:49.408 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:52.423 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:54.421 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:16:57.414 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:00.415 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:02.420 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:05.418 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:07.410 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:10.409 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:13.413 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:16.420 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:19.433 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:21.419 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:24.407 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:27.407 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:30.414 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:33.419 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:35.437 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:38.419 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:40.405 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:43.412 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:46.424 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:48.414 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:51.420 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:53.422 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:56.412 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:17:59.427 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:01.410 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:04.400 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:06.411 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:09.409 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:11.436 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:14.415 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:16.428 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:19.441 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:21.459 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:24.478 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:26.454 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:33.442 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:39.483 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:54.556 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:18:57.521 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:02.555 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:05.547 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:08.588 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:10.601 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:13.594 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:15.585 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:17.588 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:18.583 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:20.586 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:22.606 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:23.598 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:25.613 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:28.610 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:30.608 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:33.615 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:36.643 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:38.621 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:41.627 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:43.632 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:46.620 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:49.633 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:51.624 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:53.612 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:54.602 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:56.633 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:19:58.632 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:01.625 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:04.656 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:06.646 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:09.654 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:11.652 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:14.675 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:16.648 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:19.650 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:22.644 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:24.647 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:27.640 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:29.649 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:32.639 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:34.648 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:35.629 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:37.656 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:39.655 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:42.657 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:44.658 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:47.672 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:49.667 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:52.682 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:54.667 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:57.669 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:20:59.682 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:02.681 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:04.684 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:07.673 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:09.679 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:12.690 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:14.676 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:17.666 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:20.675 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:23.668 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:25.661 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:28.668 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:30.668 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:31.648 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:33.665 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:36.648 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:38.666 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:41.659 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:43.667 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:46.672 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:49.667 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:52.682 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:54.702 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:55.692 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:21:57.704 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:00.718 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:02.712 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:03.699 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:05.704 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:08.732 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:10.722 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:13.742 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:15.744 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:18.742 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:20.783 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:22.791 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:23.783 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:25.785 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:27.789 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:30.809 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:33.793 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:36.801 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:39.828 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:41.821 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:44.827 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:46.836 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:49.844 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:51.860 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:53.862 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:54.853 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:56.872 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:22:59.860 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:01.884 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:03.888 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:04.893 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:06.893 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:08.895 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:11.918 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:13.922 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:16.906 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:18.919 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:21.938 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:23.941 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:26.959 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:28.977 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:31.994 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:33.988 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:37.029 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:39.028 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:41.042 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:44.026 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:47.040 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:49.015 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:52.032 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:54.036 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:56.013 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:57.037 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:23:59.039 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:01.017 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:02.015 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:04.032 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:07.038 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:09.039 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:11.038 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:14.041 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:16.060 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:19.054 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:21.063 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:24.053 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:26.057 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:29.075 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:31.093 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:34.094 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:36.086 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:38.101 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:39.106 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:41.115 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:43.100 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:46.159 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:48.140 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:51.156 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:53.177 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:56.174 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:24:59.154 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:01.168 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:04.186 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:06.181 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:09.171 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:11.183 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:14.174 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:16.167 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:19.175 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:21.170 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:24.177 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:26.176 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:29.181 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:31.181 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:34.165 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:36.172 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:37.182 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:39.162 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:42.176 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:44.175 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:47.165 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:49.161 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:52.170 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:54.158 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:56.154 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:57.145 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:25:59.165 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:01.172 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:02.161 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:04.175 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:06.188 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:09.173 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:11.186 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:14.201 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:16.201 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:19.201 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:21.220 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:24.227 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:26.222 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:29.216 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:31.246 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:33.232 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:34.251 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:36.263 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:38.243 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:39.247 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:41.260 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:44.258 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:46.246 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:49.255 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:51.253 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:54.258 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:56.258 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:26:59.256 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:01.254 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:04.260 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:06.255 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:09.244 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:11.248 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:14.248 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:16.238 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:17.234 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:19.252 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:21.246 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:24.249 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:26.248 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:29.235 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:31.253 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:34.265 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:36.249 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:39.248 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:41.260 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:44.262 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:46.263 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:49.278 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:51.261 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:52.239 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:54.268 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:57.271 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:27:59.264 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:01.259 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:02.240 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:04.272 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:06.262 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:09.257 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:11.251 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:14.280 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:16.285 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:19.287 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:21.303 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:24.299 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:26.298 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:29.298 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:31.299 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:33.284 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:34.308 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:36.291 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:38.291 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:41.308 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:43.282 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:46.294 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:48.290 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:51.309 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:53.295 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:56.294 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:28:58.283 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:01.303 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:04.295 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:06.303 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:09.305 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:11.289 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:12.280 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:14.303 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:17.302 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:19.314 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:22.318 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:24.307 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:27.330 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:30.326 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:32.334 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:35.332 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:37.336 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:40.334 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:43.337 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:45.318 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:48.336 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:29:50.322 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:29:53.317 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:29:56.320 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:29:57.006 ] Successfully placed sell order
+2018-07-08 01:29:58.328 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:01.325 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:04.313 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:06.321 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:08.757 ] Successfully cancelled all orders
+2018-07-08 01:30:09.336 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:09.384 ] Error HTTPError:Invalid orderQty
+2018-07-08 01:30:11.319 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:12.301 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:14.345 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:17.339 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:19.331 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:20.776 ] Successfully placed sell order
+2018-07-08 01:30:22.356 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:24.331 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:25.331 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:27.354 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:29.337 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:30.331 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:32.247 ] Successfully modified order
+2018-07-08 01:30:32.353 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:35.344 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:37.351 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:39.326 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:40.322 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:42.341 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:43.801 ] Successfully modified order
+2018-07-08 01:30:44.348 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:47.343 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:49.343 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:52.338 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:30:54.346 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:55.067 ] Successfully modified order
+2018-07-08 01:30:57.338 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:30:59.340 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:02.335 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:04.336 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:06.445 ] Successfully modified order
+2018-07-08 01:31:07.335 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:31:09.355 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:31:12.335 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:14.356 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:17.329 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:17.729 ] Successfully modified order
+2018-07-08 01:31:19.351 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:22.361 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:24.361 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:27.368 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:29.212 ] Successfully modified order
+2018-07-08 01:31:29.377 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:32.405 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:31:34.413 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:37.394 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:39.433 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:40.460 ] Successfully modified order
+2018-07-08 01:31:42.413 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:44.419 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:47.422 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:49.420 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:51.698 ] Successfully modified order
+2018-07-08 01:31:52.416 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:54.426 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:57.407 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:31:59.429 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:02.416 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:03.686 ] Successfully modified order
+2018-07-08 01:32:04.418 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:07.429 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:09.419 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:12.418 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:14.418 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:15.501 ] Successfully modified order
+2018-07-08 01:32:17.423 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:19.422 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:22.416 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:24.424 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:26.926 ] Successfully modified order
+2018-07-08 01:32:27.421 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:29.414 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:31.405 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:32.421 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:34.418 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:36.405 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:37.395 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:38.243 ] Successfully modified order
+2018-07-08 01:32:39.419 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:42.433 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:44.435 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:46.409 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:47.409 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:49.451 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:49.565 ] Successfully modified order
+2018-07-08 01:32:52.458 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:54.468 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:57.484 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:32:59.510 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:00.790 ] Successfully modified order
+2018-07-08 01:33:02.512 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:04.491 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:07.507 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:09.499 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:12.053 ] Successfully modified order
+2018-07-08 01:33:12.511 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:14.509 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:17.510 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:19.507 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:22.505 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:23.470 ] Successfully modified order
+2018-07-08 01:33:24.495 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:27.506 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:29.492 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:32.493 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:34.504 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:34.999 ] Successfully modified order
+2018-07-08 01:33:37.488 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:39.504 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:42.498 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:44.488 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:45.477 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:46.305 ] Successfully modified order
+2018-07-08 01:33:47.500 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:49.503 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:52.496 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:54.499 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:57.514 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:33:57.516 ] Successfully modified order
+2018-07-08 01:33:59.534 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:02.546 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:04.532 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:05.529 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:07.546 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:08.815 ] Successfully modified order
+2018-07-08 01:34:10.560 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:12.544 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:15.549 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:17.546 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:20.130 ] Successfully modified order
+2018-07-08 01:34:20.560 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:22.568 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:24.539 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:27.547 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:30.538 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:31.509 ] Successfully modified order
+2018-07-08 01:34:32.557 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:35.553 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:37.543 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:40.542 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:42.533 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:42.750 ] Successfully modified order
+2018-07-08 01:34:43.535 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:45.562 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:48.550 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:50.555 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:53.545 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:54.274 ] Successfully modified order
+2018-07-08 01:34:55.554 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:34:58.556 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:00.535 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:01.530 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:03.531 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:05.882 ] Successfully modified order
+2018-07-08 01:35:06.533 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:09.543 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:12.545 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:14.550 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:17.071 ] Successfully modified order
+2018-07-08 01:35:17.575 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:19.562 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:22.563 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:24.555 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:25.594 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:27.572 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:28.500 ] Successfully modified order
+2018-07-08 01:35:29.577 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:30.567 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:32.590 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:35.581 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:37.591 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:40.125 ] Successfully modified order
+2018-07-08 01:35:40.578 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:42.618 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:45.600 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:47.630 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:50.649 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:51.458 ] Successfully modified order
+2018-07-08 01:35:52.681 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:55.721 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:57.747 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:58.710 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:35:59.709 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:00.719 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:01.727 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:02.737 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:03.723 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:17.747 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:18.733 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:19.730 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:20.734 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:21.736 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:22.733 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:23.725 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:24.735 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:34.764 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:35.768 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:36.759 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:37.775 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:38.785 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:39.777 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:40.791 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:41.800 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:51.844 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:52.845 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:53.837 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:54.845 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:55.838 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:56.845 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:57.847 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:58.700 ] Successfully modified order
+2018-07-08 01:36:58.841 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:36:59.858 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:00.859 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:01.859 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:02.856 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:03.859 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:04.860 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:05.862 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:06.861 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:07.848 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:08.862 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:09.863 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:10.850 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:11.868 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:12.870 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:13.872 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:14.872 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:15.873 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:16.873 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:17.865 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:18.892 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:19.909 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:20.899 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:21.904 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:36.968 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:37.738 ] Successfully modified order
+2018-07-08 01:37:38.951 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:41.971 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:43.980 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:46.966 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:48.963 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:49.267 ] Successfully modified order
+2018-07-08 01:37:49.949 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:51.956 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:54.963 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:57.016 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:37:59.019 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:00.617 ] Successfully modified order
+2018-07-08 01:38:02.034 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:04.044 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:07.021 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:10.022 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:11.954 ] Successfully modified order
+2018-07-08 01:38:12.032 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:15.025 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:17.038 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:19.015 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:20.017 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:22.019 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:23.556 ] Successfully modified order
+2018-07-08 01:38:25.019 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:27.013 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:30.033 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:32.016 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:34.983 ] Successfully modified order
+2018-07-08 01:38:35.032 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:37.016 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:38.005 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:40.038 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:43.029 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:45.039 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:46.364 ] Successfully modified order
+2018-07-08 01:38:47.018 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:48.010 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:50.025 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:52.042 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:55.024 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:57.033 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:38:57.563 ] Successfully modified order
+2018-07-08 01:39:00.026 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:02.044 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:05.027 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:07.030 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:08.909 ] Successfully modified order
+2018-07-08 01:39:10.034 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:12.019 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:15.020 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:17.037 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:20.019 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:20.169 ] Successfully modified order
+2018-07-08 01:39:22.027 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:24.033 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:25.023 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:27.043 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:29.032 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:31.430 ] Successfully modified order
+2018-07-08 01:39:32.036 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:34.055 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:37.043 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:39.040 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:42.043 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:43.649 ] Successfully modified order
+2018-07-08 01:39:44.051 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:47.049 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:49.041 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:52.085 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:54.072 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:55.307 ] Successfully modified order
+2018-07-08 01:39:57.098 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:39:59.111 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:02.112 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:04.116 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:06.516 ] Successfully modified order
+2018-07-08 01:40:07.105 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:09.104 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:12.100 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:14.108 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:16.103 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:17.117 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:18.164 ] Successfully modified order
+2018-07-08 01:40:19.121 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:21.161 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:24.171 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:26.167 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:29.186 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:29.456 ] Successfully modified order
+2018-07-08 01:40:31.219 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:34.223 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:36.226 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:38.238 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:39.235 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:40.680 ] Successfully modified order
+2018-07-08 01:40:41.228 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:43.234 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:44.224 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:46.244 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:48.226 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:51.245 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:51.982 ] Successfully modified order
+2018-07-08 01:40:53.244 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:56.256 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:40:58.282 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:01.295 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:03.291 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:03.699 ] Successfully modified order
+2018-07-08 01:41:06.298 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:08.284 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:10.292 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:13.282 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:15.065 ] Successfully modified order
+2018-07-08 01:41:16.271 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:18.272 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:20.285 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:21.292 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:23.286 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:25.275 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:26.283 ] Successfully modified order
+2018-07-08 01:41:26.283 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:28.293 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:31.273 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:33.290 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:36.270 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:37.688 ] Successfully modified order
+2018-07-08 01:41:38.292 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:41.271 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:43.283 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:46.271 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:48.295 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:49.375 ] Successfully modified order
+2018-07-08 01:41:50.289 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:51.270 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:53.310 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:56.314 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:41:58.340 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:00.647 ] Successfully modified order
+2018-07-08 01:42:01.360 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:03.361 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:06.380 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:08.379 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:11.413 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:11.996 ] Successfully modified order
+2018-07-08 01:42:14.437 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:16.446 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:19.486 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:22.478 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:23.680 ] Successfully modified order
+2018-07-08 01:42:25.477 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:27.498 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:42.758 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:45.749 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:47.361 ] Successfully modified order
+2018-07-08 01:42:48.761 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:51.748 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:53.759 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:56.764 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:42:58.586 ] Successfully modified order
+2018-07-08 01:42:59.770 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:02.758 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:05.762 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:07.775 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:10.752 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:13.750 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:15.752 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:18.757 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:21.757 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:24.762 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:27.748 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:30.754 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:33.759 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:36.762 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:39.791 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:41.811 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:44.816 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:47.798 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:50.796 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:52.808 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:53.798 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:55.819 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:43:58.814 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:01.853 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:04.871 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:07.872 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:10.877 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:13.908 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:16.923 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:19.923 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:21.941 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:24.967 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:27.987 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:30.990 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:34.002 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:36.015 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:39.010 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:42.026 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:45.005 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:48.022 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:51.028 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:54.032 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:57.038 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:44:59.054 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:02.058 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:05.075 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:08.075 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:11.072 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:13.078 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:16.101 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:18.121 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:19.109 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:21.121 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:24.120 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:27.136 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:30.137 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:33.135 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:35.134 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:38.147 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:41.138 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:44.137 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:47.127 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:49.135 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:52.131 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:55.132 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:45:58.149 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:00.158 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:03.201 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:06.175 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:08.192 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:11.182 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:14.171 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:16.177 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:19.175 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:22.194 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:25.217 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:27.242 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:30.252 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:33.247 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:36.272 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:38.280 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:41.320 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:43.328 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:44.339 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:46.352 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:49.348 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:53.360 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:54.353 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:46:55.351 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:02.396 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:05.416 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:08.405 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:11.423 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:14.429 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:17.445 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:20.460 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:22.455 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:25.475 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:28.485 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:31.502 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:34.516 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:36.549 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:39.551 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:42.554 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:45.586 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:48.584 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:50.595 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:53.634 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:56.634 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:47:59.626 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:48:02.633 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:48:04.627 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:07.628 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:10.633 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:48:13.647 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:48:16.627 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:48:19.630 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:48:22.632 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:48:25.636 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:48:28.633 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:29.622 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:33.624 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:34.626 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:38.646 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:39.630 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:40.636 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:41.623 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:42.637 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:43.632 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:48:44.133 ] Successfully placed buy order
+2018-07-08 01:48:44.633 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:49:12.631 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:49:14.625 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:17.629 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:20.363 ] Successfully cancelled all orders
+2018-07-08 01:49:20.630 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:21.019 ] Error HTTPError:Invalid orderQty
+2018-07-08 01:49:23.633 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:26.637 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:29.641 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:32.639 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:35.660 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:37.672 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:40.685 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:43.701 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:45.719 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:49:48.724 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:49:51.732 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:49:53.753 ] Successfully placed buy order
+2018-07-08 01:49:54.738 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:49:56.717 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:49:59.756 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:02.753 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:05.319 ] Successfully Modified order
+2018-07-08 01:50:05.759 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:07.752 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:10.758 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:13.761 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:15.762 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:16.629 ] Successfully Modified order
+2018-07-08 01:50:16.760 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:19.770 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:21.750 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:24.777 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:50:27.684 ] Successfully cancelled all orders
+2018-07-08 01:50:27.770 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:50:28.315 ] Error HTTPError:Invalid orderQty
+2018-07-08 01:50:30.748 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:50:32.773 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:50:33.758 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:50:35.755 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:36.757 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:38.760 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:39.845 ] Successfully placed buy order
+2018-07-08 01:50:41.754 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:44.752 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:50:47.774 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:50:49.750 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:51.195 ] Successfully Modified order
+2018-07-08 01:50:52.769 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:55.761 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:50:58.749 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:01.753 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:02.632 ] Successfully Modified order
+2018-07-08 01:51:04.780 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:06.794 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:07.778 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:09.799 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:51:12.798 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:51:13.877 ] Successfully cancelled all orders
+2018-07-08 01:51:14.553 ] Error HTTPError:Invalid orderQty
+2018-07-08 01:51:15.796 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:51:18.799 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:21.809 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:23.795 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:26.027 ] Successfully placed buy order
+2018-07-08 01:51:26.862 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:29.803 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:32.812 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:34.833 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:37.385 ] Successfully Modified order
+2018-07-08 01:51:37.847 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:40.846 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:43.880 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:45.902 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:51:48.610 ] Successfully cancelled all orders
+2018-07-08 01:51:48.942 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:49.296 ] Error HTTPError:Invalid orderQty
+2018-07-08 01:51:51.974 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:53.970 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:54.969 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:56.972 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:51:59.970 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:00.670 ] Successfully placed buy order
+2018-07-08 01:52:03.022 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:05.001 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:08.001 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:11.001 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:11.945 ] Successfully Modified order
+2018-07-08 01:52:14.017 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:16.018 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:17.020 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:19.015 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:22.054 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:23.392 ] Successfully Modified order
+2018-07-08 01:52:25.049 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:27.058 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:28.048 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:30.058 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:33.074 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 01:52:34.545 ] Successfully cancelled all orders
+2018-07-08 01:52:35.079 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:35.347 ] Error HTTPError:Invalid orderQty
+2018-07-08 01:52:38.080 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:41.106 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:44.096 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:46.097 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:46.784 ] Successfully placed buy order
+2018-07-08 01:52:49.097 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:51.151 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:54.136 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:56.133 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:52:58.294 ] Successfully Modified order
+2018-07-08 01:52:59.229 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:02.123 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:04.155 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:05.156 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:06.173 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:13.215 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:14.207 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:15.215 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:16.210 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:17.220 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:18.229 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:19.242 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:20.246 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:21.234 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:22.236 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:23.237 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:40.296 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:41.294 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:42.308 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:43.306 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:44.298 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:45.296 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:46.302 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:47.304 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:48.306 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:49.295 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:50.298 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:51.298 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:52.299 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:53.300 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:54.303 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:55.305 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:56.307 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:56.581 ] Successfully Modified order
+2018-07-08 01:53:57.308 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:58.294 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:53:59.297 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:00.324 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:01.314 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:02.324 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:03.323 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:04.329 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:05.337 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:06.336 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:07.338 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:10.353 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:10.640 ] Successfully Modified order
+2018-07-08 01:54:14.364 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:16.385 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:19.378 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:22.354 ] Successfully Modified order
+2018-07-08 01:54:22.401 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:24.405 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:27.374 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:29.373 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:32.412 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:33.801 ] Successfully Modified order
+2018-07-08 01:54:35.446 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:37.423 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:40.429 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:43.447 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:45.230 ] Successfully Modified order
+2018-07-08 01:54:45.465 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:48.491 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:50.482 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:53.506 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:55.510 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:54:56.683 ] Successfully Modified order
+2018-07-08 01:54:58.504 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:00.529 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:03.541 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:06.541 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:08.080 ] Successfully Modified order
+2018-07-08 01:55:08.502 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:09.497 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:11.503 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:14.499 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:17.504 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:19.252 ] Successfully Modified order
+2018-07-08 01:55:19.522 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:22.508 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:24.513 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:27.528 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:30.486 ] Successfully Modified order
+2018-07-08 01:55:30.549 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:32.609 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:35.593 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:37.627 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:38.629 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:40.632 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:42.260 ] Successfully Modified order
+2018-07-08 01:55:43.632 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:45.656 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:46.652 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:47.652 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:48.642 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:49.644 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:50.647 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:51.644 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:52.660 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:54.599 ] Successfully Modified order
+2018-07-08 01:55:55.676 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:55:57.702 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:00.727 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:03.766 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:05.752 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:06.269 ] Successfully Modified order
+2018-07-08 01:56:06.754 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:08.767 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:11.765 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:14.759 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:15.762 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:16.751 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:17.752 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:18.756 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:19.754 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:22.052 ] Successfully Modified order
+2018-07-08 01:56:22.756 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:25.778 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:27.785 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:30.808 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:32.840 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:33.388 ] Successfully Modified order
+2018-07-08 01:56:35.831 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:38.856 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:40.895 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:43.881 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:44.749 ] Successfully Modified order
+2018-07-08 01:56:45.897 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:46.882 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:48.922 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:50.924 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:53.940 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:55.942 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:56:56.026 ] Successfully Modified order
+2018-07-08 01:56:58.941 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:01.971 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:03.968 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:06.977 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:07.636 ] Successfully Modified order
+2018-07-08 01:57:08.971 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:11.993 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:13.981 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:17.020 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:18.846 ] Successfully Modified order
+2018-07-08 01:57:19.012 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:22.010 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:24.015 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:27.024 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:29.026 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:30.385 ] Successfully Modified order
+2018-07-08 01:57:32.011 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:34.010 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:37.011 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:39.012 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:40.027 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:41.750 ] Successfully Modified order
+2018-07-08 01:57:42.028 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:45.031 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:47.046 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:50.033 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:52.048 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:53.001 ] Successfully Modified order
+2018-07-08 01:57:54.058 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:55.065 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:57:57.090 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:00.107 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:02.114 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:04.461 ] Successfully Modified order
+2018-07-08 01:58:05.138 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:07.141 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:10.193 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:12.177 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:13.173 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:15.214 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:15.733 ] Successfully Modified order
+2018-07-08 01:58:18.226 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:20.218 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:23.281 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:25.248 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:27.026 ] Successfully Modified order
+2018-07-08 01:58:28.261 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:30.253 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:33.267 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:35.272 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:38.294 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:38.403 ] Successfully Modified order
+2018-07-08 01:58:40.313 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:43.314 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:46.319 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:48.312 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:49.753 ] Successfully Modified order
+2018-07-08 01:58:51.328 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:53.339 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:56.296 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:58:58.299 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:01.271 ] Successfully Modified order
+2018-07-08 01:59:01.299 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:04.317 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:06.324 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:09.308 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:11.296 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:12.785 ] Successfully Modified order
+2018-07-08 01:59:14.334 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:16.354 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:19.355 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:21.352 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:24.026 ] Successfully Modified order
+2018-07-08 01:59:24.344 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:26.351 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:29.367 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:31.365 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:34.376 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:35.374 ] Successfully Modified order
+2018-07-08 01:59:36.398 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:39.382 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:41.420 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:44.404 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:46.426 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:46.854 ] Successfully Modified order
+2018-07-08 01:59:47.407 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:49.414 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:51.420 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:52.413 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:54.420 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:56.448 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 01:59:58.245 ] Successfully Modified order
+2018-07-08 01:59:59.446 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:01.457 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:04.437 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:07.437 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:09.647 ] Successfully Modified order
+2018-07-08 02:00:10.446 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:12.441 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:15.428 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:17.455 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:20.475 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:21.159 ] Successfully Modified order
+2018-07-08 02:00:22.473 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:25.477 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:27.469 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:30.492 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:32.534 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:32.534 ] Successfully Modified order
+2018-07-08 02:00:35.531 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:37.523 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:40.538 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:42.532 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:43.514 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:43.801 ] Successfully Modified order
+2018-07-08 02:00:45.540 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:47.541 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:48.522 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:50.625 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:52.548 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:53.552 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:55.153 ] Successfully Modified order
+2018-07-08 02:00:55.571 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:57.614 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:00:58.588 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:00.595 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:03.604 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:05.600 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:06.533 ] Successfully Modified order
+2018-07-08 02:01:08.622 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:10.635 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:13.602 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:15.594 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:17.895 ] Successfully Modified order
+2018-07-08 02:01:18.611 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:21.624 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:23.629 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:26.643 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:28.652 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:29.390 ] Successfully Modified order
+2018-07-08 02:01:31.674 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:33.672 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:34.675 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:36.670 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:39.688 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:41.007 ] Successfully Modified order
+2018-07-08 02:01:41.690 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:44.707 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:46.723 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:49.722 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:51.746 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:52.273 ] Successfully Modified order
+2018-07-08 02:01:54.713 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:56.733 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:01:59.747 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:01.763 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:03.632 ] Successfully Modified order
+2018-07-08 02:02:04.816 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:06.823 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:09.844 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:11.861 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:13.865 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:14.861 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:15.006 ] Successfully Modified order
+2018-07-08 02:02:16.872 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:19.888 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:21.923 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:24.946 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:26.939 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:28.743 ] Successfully Modified order
+2018-07-08 02:02:29.925 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:34.921 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:02:50.056 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:05.128 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:19.174 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:19.753 ] Successfully Modified order
+2018-07-08 02:03:24.207 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:27.246 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:30.242 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:32.366 ] Successfully Modified order
+2018-07-08 02:03:33.230 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:36.230 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:38.220 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:41.219 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:43.221 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:43.675 ] Successfully Modified order
+2018-07-08 02:03:44.223 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:46.226 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:49.233 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:51.232 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:53.271 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:54.869 ] Successfully Modified order
+2018-07-08 02:03:56.250 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:03:58.256 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:01.278 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:03.249 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:06.183 ] Successfully Modified order
+2018-07-08 02:04:06.251 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:09.278 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:11.283 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:14.317 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:17.350 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:21.310 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:21.710 ] Successfully Modified order
+2018-07-08 02:04:22.332 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:24.355 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:27.349 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:29.345 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:32.353 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:33.164 ] Successfully Modified order
+2018-07-08 02:04:34.343 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:37.357 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:39.356 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:42.376 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:44.470 ] Successfully Modified order
+2018-07-08 02:04:45.387 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:47.405 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:49.375 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:52.373 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:54.410 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:55.809 ] Successfully Modified order
+2018-07-08 02:04:57.443 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:04:59.456 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:02.484 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:05.486 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:07.234 ] Successfully Modified order
+2018-07-08 02:05:07.484 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:08.479 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:10.502 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:12.484 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:15.479 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:17.492 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:18.448 ] Successfully Modified order
+2018-07-08 02:05:18.495 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:20.528 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:22.527 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:25.570 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:27.566 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:28.576 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:29.796 ] Successfully Modified order
+2018-07-08 02:05:30.593 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:32.598 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:33.597 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:36.613 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:38.599 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:40.966 ] Successfully Modified order
+2018-07-08 02:05:41.613 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:43.595 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:46.602 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:48.636 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:51.653 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:52.876 ] Successfully Modified order
+2018-07-08 02:05:53.653 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:56.672 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:58.683 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:05:59.674 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:01.692 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:03.691 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:04.207 ] Successfully Modified order
+2018-07-08 02:06:06.702 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:08.686 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:11.699 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:13.687 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:15.520 ] Successfully Modified order
+2018-07-08 02:06:16.712 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:18.720 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:20.726 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:21.729 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:23.746 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:26.766 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:26.782 ] Successfully Modified order
+2018-07-08 02:06:28.785 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:30.805 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:33.784 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:35.830 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:38.249 ] Successfully Modified order
+2018-07-08 02:06:38.835 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:40.827 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:43.825 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:45.846 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:48.845 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:49.695 ] Successfully Modified order
+2018-07-08 02:06:50.839 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:53.866 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:55.869 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:06:58.870 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:00.862 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:01.070 ] Successfully Modified order
+2018-07-08 02:07:03.877 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:05.874 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:08.892 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:10.876 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:12.378 ] Successfully Modified order
+2018-07-08 02:07:13.889 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:15.885 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:18.898 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:20.901 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:23.918 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:24.189 ] Successfully Modified order
+2018-07-08 02:07:25.924 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:26.954 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:28.955 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:30.970 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:31.978 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:34.002 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:35.462 ] Successfully Modified order
+2018-07-08 02:07:36.013 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:39.042 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:41.053 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:44.063 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:46.807 ] Successfully Modified order
+2018-07-08 02:07:47.050 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:49.067 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:52.063 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:55.075 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:57.045 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:07:58.109 ] Successfully Modified order
+2018-07-08 02:08:00.058 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:02.104 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:05.147 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:07.110 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:09.392 ] Error HTTPError:Nonce is not increasing. This nonce: 8998852889899156, last nonce: 8998852889899156
+2018-07-08 02:08:10.147 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:12.151 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:15.137 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:17.151 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:20.137 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:21.005 ] Successfully Modified order
+2018-07-08 02:08:22.155 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:25.143 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:27.151 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:30.178 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:32.174 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:32.751 ] Successfully Modified order
+2018-07-08 02:08:35.188 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:37.210 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:40.298 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:42.246 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:44.038 ] Successfully Modified order
+2018-07-08 02:08:45.250 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:47.271 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:49.267 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:50.247 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:52.278 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:54.261 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:55.514 ] Successfully Modified order
+2018-07-08 02:08:57.268 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:08:59.276 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:02.268 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:04.272 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:06.759 ] Successfully Modified order
+2018-07-08 02:09:07.277 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:09.276 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:12.261 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:14.292 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:17.334 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:18.311 ] Successfully Modified order
+2018-07-08 02:09:19.336 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:22.296 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:24.323 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:27.318 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:29.298 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:29.684 ] Successfully Modified order
+2018-07-08 02:09:31.298 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:32.313 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:34.318 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:36.317 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:37.296 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:38.301 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:39.300 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:40.300 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:42.525 ] Successfully Modified order
+2018-07-08 02:09:43.328 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:45.334 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:48.379 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:50.420 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:52.399 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:53.434 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:53.907 ] Successfully Modified order
+2018-07-08 02:09:55.431 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:09:57.436 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:00.462 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:02.467 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:05.494 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:06.074 ] Successfully Modified order
+2018-07-08 02:10:07.468 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:10.483 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:12.510 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:15.526 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:17.385 ] Successfully Modified order
+2018-07-08 02:10:17.538 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:20.532 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:22.531 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:25.526 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:27.537 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:30.530 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:31.532 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:32.553 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:33.546 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:34.544 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:35.546 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:37.546 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:38.563 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:40.583 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-08 02:10:43.599 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:10:45.611 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:10:48.600 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:10:49.923 ] Successfully placed sell order
+2018-07-08 02:10:51.602 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:10:53.600 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:10:55.606 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:10:56.630 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:10:58.608 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:01.524 ] Successfully modified order
+2018-07-08 02:11:01.629 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:03.611 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:06.644 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:08.646 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:10.643 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:11.636 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:12.753 ] Successfully modified order
+2018-07-08 02:11:13.637 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:15.628 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:18.626 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:21.636 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:23.625 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:24.042 ] Successfully modified order
+2018-07-08 02:11:26.647 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:28.651 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:31.660 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:34.655 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:35.954 ] Successfully modified order
+2018-07-08 02:11:36.647 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:39.653 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:41.647 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:44.649 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:46.655 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:47.622 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:48.648 ] Successfully modified order
+2018-07-08 02:11:50.636 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:53.646 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:56.650 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:11:58.645 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:00.577 ] Successfully modified order
+2018-07-08 02:12:01.644 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:04.642 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:06.644 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:09.651 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:11.989 ] Successfully modified order
+2018-07-08 02:12:12.629 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:14.640 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:17.627 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:20.639 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:22.627 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:23.274 ] Successfully modified order
+2018-07-08 02:12:23.633 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:25.646 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:26.628 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:28.634 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:31.646 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:33.661 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:34.498 ] Successfully modified order
+2018-07-08 02:12:36.698 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:39.701 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:41.673 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-08 02:12:42.671 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0

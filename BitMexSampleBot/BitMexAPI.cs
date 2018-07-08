@@ -8,6 +8,9 @@ using System.Net;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
+using System.Web.Script.Serialization;
+
+
 
 namespace BitMEX
 {
@@ -25,10 +28,10 @@ namespace BitMEX
     public class BitMEXApi
     {
         private string domain = "https://testnet.bitmex.com";
-        private string apiKey;
-        private string apiSecret;
+        public string apiKey= "PBYi59QNS3XH0-eBwBgZOLOo";
+        public string apiSecret= "tpr1N_U9Xwo-LicubnEJjQdYVRTmpDaQmYfo2zhqwWKLOdXd";
         private int rateLimit;
-
+        JavaScriptSerializer jsonSerializer = new JavaScriptSerializer();
         public BitMEXApi(string bitmexKey = "", string bitmexSecret = "", string bitmexDomain = "", int rateLimit = 5000)
         {
             this.apiKey = bitmexKey;
@@ -80,7 +83,7 @@ namespace BitMEX
             return hex.ToString();
         }
 
-        private long GetNonce()
+        public long GetNonce()
         {
             DateTime yearBegin = new DateTime(1990, 1, 1);
             return DateTime.UtcNow.Ticks - yearBegin.Ticks;
@@ -93,7 +96,13 @@ namespace BitMEX
                 return hash.ComputeHash(messageBytes);
             }
         }
-
+        public byte[] hmacsha256WS(byte[] messageBytes)
+        {
+            using (var hash = new HMACSHA256(Encoding.UTF8.GetBytes(apiSecret)))
+            {
+                return hash.ComputeHash(messageBytes);
+            }
+        }
         private string Query(string method, string function, Dictionary<string, string> param = null, bool auth = false, bool json = false)
         {
             string paramData = json ? BuildJSON(param) : BuildQueryData(param);
@@ -126,21 +135,29 @@ namespace BitMEX
                         stream.Write(data, 0, data.Length);
                     }
                 }
-
+                //StatusCode = HttpStatusCode.OK;
                 using (WebResponse webResponse = webRequest.GetResponse())
                 using (Stream str = webResponse.GetResponseStream())
                 using (StreamReader sr = new StreamReader(str))
                 {
                     return sr.ReadToEnd();
                 }
+
             }
             catch (WebException wex)
             {
                 using (HttpWebResponse response = (HttpWebResponse)wex.Response)
                 {
                     if (response == null)
-                        throw;
-
+                    {
+                        ErrorObject err = new ErrorObject();
+                        err.error.message = wex.Message;
+                        err.error.name = "Web Exception";
+                        return jsonSerializer.Serialize(err);
+                        //throw;
+                    }
+                        
+                    //StatusCode = ((HttpWebResponse)wex.Response).StatusCode;
                     using (Stream str = response.GetResponseStream())
                     {
                         using (StreamReader sr = new StreamReader(str))
@@ -149,6 +166,13 @@ namespace BitMEX
                         }
                     }
                 }
+            }
+            catch(Exception ex)
+            {
+                ErrorObject err = new ErrorObject();
+                err.error.message = ex.InnerException.ToString() ;
+                err.error.name = ex.Message;
+                return jsonSerializer.Serialize(err);
             }
         }
         #endregion
@@ -226,6 +250,7 @@ namespace BitMEX
             param["side"] = Side;
             param["orderQty"] = Quantity.ToString();
             param["ordType"] = "Market";
+            //HttpStatusCode StatusCode;
             return Query("POST", "/order", param, true);
         }
 
@@ -254,7 +279,10 @@ namespace BitMEX
         public List<Instrument> GetActiveInstruments()
         {
             string res = Query("GET", "/instrument/active");
-            return JsonConvert.DeserializeObject<List<Instrument>>(res);
+            if (res.Contains("error"))
+                return null;
+            else
+                return JsonConvert.DeserializeObject<List<Instrument>>(res);
         }
 
         public List<Instrument> GetInstrument(string symbol)
@@ -274,14 +302,20 @@ namespace BitMEX
             param["partial"] = false.ToString();
             param["binSize"] = size;
             string res = Query("GET", "/trade/bucketed", param);
-            return JsonConvert.DeserializeObject<List<Candle>>(res).OrderByDescending(a => a.TimeStamp).ToList();
+            if (res.Contains("error"))
+                return null;
+            else
+                return JsonConvert.DeserializeObject<List<Candle>>(res).OrderByDescending(a => a.TimeStamp).ToList();
         }
 
         public List<Position> GetOpenPositions(string symbol)
         {
             var param = new Dictionary<string, string>();
             string res = Query("GET", "/position", param, true);
-            return JsonConvert.DeserializeObject<List<Position>>(res).Where(a => a.Symbol == symbol && a.IsOpen == true).OrderByDescending(a => a.TimeStamp).ToList();
+            if (res.Contains("error"))
+                return null;
+            else
+                return JsonConvert.DeserializeObject<List<Position>>(res).Where(a => a.Symbol == symbol && a.IsOpen == true).OrderByDescending(a => a.TimeStamp).ToList();
         }
 
         public List<Order> GetOpenOrders(string symbol)
@@ -289,8 +323,25 @@ namespace BitMEX
             var param = new Dictionary<string, string>();
             param["symbol"] = symbol;
             param["reverse"] = true.ToString();
+            
             string res = Query("GET", "/order", param, true);
-            return JsonConvert.DeserializeObject<List<Order>>(res).Where(a => a.OrdStatus == "New" || a.OrdStatus == "PartiallyFilled").OrderByDescending(a => a.TimeStamp).ToList();
+            if (res.Contains("error"))
+                return null;
+            else
+                return JsonConvert.DeserializeObject<List<Order>>(res).Where(a => a.OrdStatus == "New" || a.OrdStatus == "PartiallyFilled").OrderByDescending(a => a.TimeStamp).ToList();
+        }
+
+        public List<Order> GetAllOrders(string symbol)
+        {
+            var param = new Dictionary<string, string>();
+            param["symbol"] = symbol;
+            param["reverse"] = true.ToString();
+            param["count"] = "300";
+            string res = Query("GET", "/order", param, true);
+            if (res.Contains("error"))
+                return null;
+            else
+                return JsonConvert.DeserializeObject<List<Order>>(res).OrderByDescending(a => a.TimeStamp).ToList();
         }
 
         public string EditOrderPrice(string OrderId, double Price)
@@ -512,5 +563,53 @@ namespace BitMEX
         public double? Price { get; set; }
         public int? OrderQty { get; set; }
         public int? DisplayQty { get; set; }
+    }
+
+    public class Error
+    {
+        public string message { get; set; }
+        public string name { get; set; }
+    }
+
+    public class ErrorObject
+    {
+        public Error error = new Error();
+    }
+
+    public class OrderCreationResponse
+    {
+        public string orderID { get; set; }
+        public string clOrdID { get; set; }
+        public string clOrdLinkID { get; set; }
+        public int account { get; set; }
+        public string symbol { get; set; }
+        public string side { get; set; }
+        public object simpleOrderQty { get; set; }
+        public int orderQty { get; set; }
+        public int price { get; set; }
+        public object displayQty { get; set; }
+        public object stopPx { get; set; }
+        public object pegOffsetValue { get; set; }
+        public string pegPriceType { get; set; }
+        public string currency { get; set; }
+        public string settlCurrency { get; set; }
+        public string ordType { get; set; }
+        public string timeInForce { get; set; }
+        public string execInst { get; set; }
+        public string contingencyType { get; set; }
+        public string exDestination { get; set; }
+        public string ordStatus { get; set; }
+        public string triggered { get; set; }
+        public bool workingIndicator { get; set; }
+        public string ordRejReason { get; set; }
+        public int simpleLeavesQty { get; set; }
+        public int leavesQty { get; set; }
+        public double simpleCumQty { get; set; }
+        public int cumQty { get; set; }
+        public int avgPx { get; set; }
+        public string multiLegReportingType { get; set; }
+        public string text { get; set; }
+        public DateTime transactTime { get; set; }
+        public DateTime timestamp { get; set; }
     }
 }
