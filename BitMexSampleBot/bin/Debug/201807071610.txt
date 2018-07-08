@@ -1,0 +1,9 @@
+2018-07-07 16:10:29.398 ] Internet connectivity is not available
+2018-07-07 16:10:46.453 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:11:01.575 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:11:02.945 ] Successfully placed sell order
+2018-07-07 16:11:14.262 ] Successfully modified order
+2018-07-07 16:11:16.574 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:11:26.017 ] Successfully modified order
+2018-07-07 16:11:31.573 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:11:39.231 ] Error HTTPError:Invalid ordStatus

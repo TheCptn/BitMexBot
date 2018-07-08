@@ -1,0 +1,54 @@
+2018-07-07 15:23:12.743 ] Internet connectivity is not available
+2018-07-07 15:23:22.782 ] Internet connectivity is not available
+2018-07-07 15:23:43.846 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 15:24:48.373 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 15:25:34.362 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 15:25:37.366 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 15:25:40.368 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 15:25:43.370 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 15:25:51.222 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 15:26:44.660 ] Successfully placed buy order
+2018-07-07 15:26:55.842 ] Successfully placed buy order
+2018-07-07 15:27:06.912 ] Successfully modified order to price 
+2018-07-07 15:27:18.094 ] Successfully modified order to price 
+2018-07-07 15:27:29.029 ] Successfully modified order to price 
+2018-07-07 15:28:32.736 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 15:58:45.332 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 15:58:50.336 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 15:58:54.334 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 15:58:57.502 ] Successfully placed buy order
+2018-07-07 15:59:08.615 ] Successfullymodified order
+2018-07-07 15:59:19.772 ] Successfullymodified order
+2018-07-07 15:59:31.014 ] Successfullymodified order
+2018-07-07 15:59:38.018 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 15:59:42.094 ] Successfullymodified order
+2018-07-07 15:59:43.436 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 15:59:53.446 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 15:59:53.634 ] Successfullymodified order
+2018-07-07 15:59:58.447 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:00:08.440 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:00:15.017 ] Successfully cancelled all orders
+2018-07-07 16:00:18.438 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:00:23.440 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:00:33.442 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:00:38.447 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:00:48.434 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:00:53.444 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:00:57.914 ] Successfully placed sell order
+2018-07-07 16:01:03.439 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:01:09.387 ] Successfully modified order
+2018-07-07 16:01:13.446 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:01:20.165 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:01:21.425 ] Successfully modified order
+2018-07-07 16:01:23.437 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:01:32.528 ] Successfully modified order
+2018-07-07 16:01:33.441 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:01:43.434 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:01:43.606 ] Successfully modified order
+2018-07-07 16:01:48.447 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 16:01:54.772 ] Successfully modified order
+2018-07-07 16:01:58.439 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:02:03.438 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:02:05.762 ] Successfully cancelled all orders
+2018-07-07 16:02:13.442 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:02:18.440 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.

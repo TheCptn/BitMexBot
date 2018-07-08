@@ -1,0 +1,275 @@
+2018-07-07 16:56:57.270 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:57:07.368 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:57:17.279 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:57:27.382 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:57:37.349 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:57:47.326 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:57:57.358 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:08.367 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:21.350 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:27.252 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:37.078 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:47.041 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:51.336 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:52.334 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:53.341 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:54.337 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:58:55.335 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:59:00.366 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:59:04.364 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:59:17.637 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:59:27.638 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:59:37.635 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 16:59:47.638 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:00:07.636 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:00:17.643 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:00:27.657 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:00:47.639 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:00:57.646 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:01:07.638 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:01:27.645 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:01:37.638 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:01:47.637 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:02:07.640 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:02:17.632 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:02:27.639 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:02:47.636 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:02:57.636 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:03:07.648 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:03:17.639 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:03:37.645 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:03:47.640 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:03:57.637 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:37.588 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:38.556 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:39.556 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:40.556 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:41.555 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:42.557 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:43.556 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:44.554 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:45.553 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:46.555 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:47.554 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:50.354 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:52.352 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:54.351 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:56.351 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:58.350 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:04:59.852 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:05:03.959 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:05:04.873 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:05:17.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:05:27.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:05:37.713 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:05:57.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:06:07.714 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:06:27.712 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:06:37.718 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:06:57.710 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:07:07.715 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:07:17.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:07:37.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:07:47.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:08:07.712 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:08:17.713 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:08:27.708 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:08:47.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:08:57.711 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:09:17.713 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:09:27.712 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:09:37.708 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:09:57.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:10:07.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:10:27.715 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:10:29.623 ] Successfully placed sell order
+2018-07-07 17:10:37.715 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:10:40.830 ] Successfully modified order
+2018-07-07 17:10:47.708 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:10:52.158 ] Successfully modified order
+2018-07-07 17:10:57.685 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:11:03.269 ] Successfully modified order
+2018-07-07 17:11:07.713 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:11:14.622 ] Successfully modified order
+2018-07-07 17:11:17.714 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:11:27.738 ] Successfully modified order
+2018-07-07 17:11:37.715 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:11:38.980 ] Successfully modified order
+2018-07-07 17:11:47.714 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:11:57.718 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:12:17.713 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:12:27.698 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:12:37.702 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:12:57.705 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:13:07.700 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:13:17.702 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:13:27.507 ] Successfully placed buy order
+2018-07-07 17:13:27.701 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:13:38.820 ] Successfully placed sell order
+2018-07-07 17:13:47.702 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:13:50.084 ] Successfully modified order
+2018-07-07 17:13:57.700 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:14:07.703 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:14:27.701 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:14:37.699 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:14:47.695 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:15:07.696 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:15:17.702 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:15:27.699 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:15:37.702 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:15:57.706 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:15:59.817 ] Successfully placed buy order
+2018-07-07 17:16:07.700 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:16:10.937 ] Successfullymodified order
+2018-07-07 17:16:17.706 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:16:22.037 ] Successfullymodified order
+2018-07-07 17:16:34.195 ] Successfullymodified order
+2018-07-07 17:16:37.696 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:16:45.511 ] Successfullymodified order
+2018-07-07 17:16:47.706 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:16:56.920 ] Successfullymodified order
+2018-07-07 17:16:57.705 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:17:17.699 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:17:27.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:17:47.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:17:57.710 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:18:07.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:18:27.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:18:37.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:18:47.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:19:07.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:19:17.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:19:27.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:19:47.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:19:57.699 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:20:17.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:20:27.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:20:37.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:20:57.696 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:21:07.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:21:17.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:21:37.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:21:47.712 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:21:57.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:22:17.708 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:22:27.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:22:37.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:22:57.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:23:07.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:23:27.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:23:37.705 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:23:47.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:24:07.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:24:17.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:24:27.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:24:47.699 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:24:57.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:25:17.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:25:27.708 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:25:47.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:25:57.705 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:26:07.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:26:17.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:26:37.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:26:47.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:27:07.711 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:27:17.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:27:37.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:27:47.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:28:07.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:28:17.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:28:37.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:28:47.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:29:07.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:29:17.699 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:29:37.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:29:47.711 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:30:07.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:30:17.699 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:30:37.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:30:47.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:31:07.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:31:17.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:31:37.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:31:47.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:32:07.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:32:17.705 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:32:37.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:32:47.705 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:33:07.708 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:33:17.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:33:37.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:33:47.699 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:34:07.698 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:34:17.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:34:37.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:34:47.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:35:07.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:35:17.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:35:37.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:35:47.722 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:36:07.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:36:17.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:36:27.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:36:47.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:36:57.711 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:37:17.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:37:27.705 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:37:47.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:37:57.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:38:17.697 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:38:27.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:38:37.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:38:57.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:39:07.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:39:27.705 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:39:37.699 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:39:47.702 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:39:57.700 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:40:07.705 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:40:17.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:40:27.702 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:40:37.019 ] Error HTTPError:The system is currently overloaded. Please try again later.
+2018-07-07 17:40:47.707 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:40:57.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:41:07.711 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:41:27.710 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:41:36.222 ] Successfully placed sell order
+2018-07-07 17:41:37.709 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:41:47.705 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:42:07.705 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:42:17.708 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:42:24.404 ] Successfully placed buy order
+2018-07-07 17:42:27.706 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:42:37.679 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:42:38.537 ] Successfully modified order to price 
+2018-07-07 17:42:47.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:42:57.708 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:43:17.702 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:43:27.711 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:43:37.702 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:43:57.702 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:44:07.702 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:44:17.701 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:44:19.568 ] Successfully placed sell order
+2018-07-07 17:44:31.407 ] Successfully cancelled all orders
+2018-07-07 17:44:37.707 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:44:42.836 ] Successfully placed sell order
+2018-07-07 17:44:47.700 ] the last close has crossed below EMA of 13,  Triggers a sell in switch setting0
+2018-07-07 17:44:54.761 ] Successfully modified order
+2018-07-07 17:45:06.196 ] Successfully modified order
+2018-07-07 17:45:07.707 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:45:17.444 ] Successfully cancelled all orders
+2018-07-07 17:45:17.706 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:45:27.705 ] no crossover, close still below EMA of 13, Keep short position open, close any longs if they are still open.0
+2018-07-07 17:45:47.713 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:45:51.817 ] Error HTTPError:The system is currently overloaded. Please try again later.
+2018-07-07 17:45:57.703 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:46:05.635 ] Successfully placed buy order
+2018-07-07 17:46:17.709 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:46:17.987 ] Successfully placed buy order
+2018-07-07 17:46:27.703 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:46:47.708 ] the last close has crossed above EMA of 13,  Triggers a buy in switch setting.0
+2018-07-07 17:46:57.709 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:47:07.703 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0
+2018-07-07 17:47:27.704 ] no crossover, close still above EMA of 13, Keep long position open, close any shorts if they are still open.0

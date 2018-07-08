@@ -1,0 +1,28 @@
+2018-07-07 16:20:15.008 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.BitMEX.Instrument
+2018-07-07 16:20:24.915 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.BitMEX.Instrument
+2018-07-07 16:20:34.926 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.BitMEX.Instrument
+2018-07-07 16:20:45.017 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.BitMEX.Instrument
+2018-07-07 16:21:04.917 ] the last full candle have EMA1 cross below EMA2,  Triggers a sell in switch settingBitMEX.Instrument
+2018-07-07 16:21:14.930 ] the last full candle have EMA1 cross below EMA2,  Triggers a sell in switch settingBitMEX.Instrument
+2018-07-07 16:21:15.509 ] Error ValidationError:Account has insufficient Available Balance, 1535347 XBt required
+2018-07-07 16:21:24.917 ] the last full candle have EMA1 cross below EMA2,  Triggers a sell in switch settingBitMEX.Instrument
+2018-07-07 16:21:27.090 ] Successfully placed sell order
+2018-07-07 16:21:35.031 ] the last full candle have EMA1 cross below EMA2,  Triggers a sell in switch settingBitMEX.Instrument
+2018-07-07 16:21:38.214 ] Successfully placed sell order
+2018-07-07 16:21:45.035 ] the last full candle have EMA1 cross below EMA2,  Triggers a sell in switch settingBitMEX.Instrument
+2018-07-07 16:21:54.933 ] the last full candle have EMA1 cross below EMA2,  Triggers a sell in switch settingBitMEX.Instrument
+2018-07-07 16:22:04.972 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:22:14.985 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:22:35.028 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:22:44.974 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:22:55.027 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:23:04.986 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:23:14.979 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:23:24.935 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:23:35.028 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:23:54.931 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:24:04.964 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:24:14.976 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:24:34.920 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:24:44.954 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument
+2018-07-07 16:24:54.926 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.BitMEX.Instrument

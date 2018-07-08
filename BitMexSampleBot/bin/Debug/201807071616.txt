@@ -1,0 +1,9 @@
+2018-07-07 16:17:19.901 ] Internet connectivity is not available
+2018-07-07 16:17:29.940 ] Internet connectivity is not available
+2018-07-07 16:17:39.981 ] Internet connectivity is not available
+2018-07-07 16:17:50.022 ] Internet connectivity is not available
+2018-07-07 16:18:03.957 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:18:14.047 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:18:24.063 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:18:34.029 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 16:18:54.065 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.

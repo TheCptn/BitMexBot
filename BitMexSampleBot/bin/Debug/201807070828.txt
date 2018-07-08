@@ -1,0 +1,662 @@
+2018-07-07 08:32:33.592 ] Internet connectivity is not available
+2018-07-07 08:47:24.277 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:25.241 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:30.274 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:33.270 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:36.274 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:40.267 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:44.272 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:45.241 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:48.262 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:52.275 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:47:56.262 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:00.261 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:04.291 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:08.278 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:13.275 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:17.267 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:21.277 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:25.264 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:26.242 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:29.273 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:34.264 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:38.274 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:42.275 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:47.272 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:52.269 ] no crossover, MA1 still above MA2, Keep long position open, close any shorts if they are still open.
+2018-07-07 08:48:56.270 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:48:57.240 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:48:57.726 ] Successfully placed sell order
+2018-07-07 08:49:01.271 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:05.262 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:09.281 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:12.288 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:13.288 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:17.279 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:21.290 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:22.262 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:25.271 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:26.258 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:29.286 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:34.283 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:38.272 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:42.277 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:47.310 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:51.274 ] the last full candle have MA1 cross below MA2,  Triggers a sell in switch setting
+2018-07-07 08:49:55.290 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:49:56.258 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:49:59.295 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:03.271 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:04.257 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:08.276 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:12.277 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:16.270 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:20.276 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:21.259 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:25.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:29.293 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:30.261 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:34.284 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:37.283 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:41.276 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:44.282 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:48.285 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:49.264 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:52.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:56.278 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:50:57.258 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:01.287 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:05.271 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:09.277 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:14.271 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:18.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:22.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:25.276 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:26.259 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:30.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:35.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:39.273 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:40.259 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:44.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:48.277 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:52.277 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:51:56.282 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:00.275 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:01.258 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:04.272 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:09.272 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:13.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:17.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:18.277 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:21.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:26.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:31.275 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:36.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:40.274 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:41.260 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:45.288 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:50.290 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:54.284 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:52:58.275 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:02.285 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:06.283 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:10.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:15.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:19.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:20.256 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:24.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:28.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:29.295 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:32.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:36.271 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:37.262 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:41.286 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:42.258 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:45.274 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:49.273 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:53.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:54.270 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:53:57.287 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:02.282 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:09.274 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:13.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:17.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:23.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:27.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:31.278 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:32.263 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:35.284 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:36.257 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:39.282 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:43.278 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:47.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:51.715 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:52.259 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:55.284 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:54:56.285 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:55:00.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:55:05.285 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:55:09.275 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:55:13.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:55:17.278 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:55:25.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:55:26.639 ] Successfully cancelled all orders
+2018-07-07 08:55:27.081 ] Successfully placed sell order
+2018-07-07 08:55:29.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:59:38.696 ] Successfully modified order
+2018-07-07 08:59:39.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:59:40.257 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 08:59:43.301 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:00:57.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:01.288 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:05.284 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:09.278 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:10.266 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:13.274 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:17.278 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:20.275 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:24.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:28.285 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:31.284 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:35.281 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:38.287 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:42.280 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:46.276 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:49.279 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 09:01:52.273 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:01:56.277 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:01:58.276 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:01:59.257 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:01:59.406 ] Successfully placed buy order
+2018-07-07 09:02:02.279 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:02:06.276 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:02:10.278 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:02:11.284 ] Successfullymodified order
+2018-07-07 09:02:14.292 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:02:18.280 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:02:22.287 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:02:22.846 ] Successfullymodified order
+2018-07-07 09:02:26.292 ] the last full candle have MA1 cross above MA2,  Triggers a buy in switch setting.
+2018-07-07 09:10:01.988 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:02.997 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:04.005 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:05.015 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:06.023 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:07.032 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:08.040 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:09.047 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:10.054 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:11.061 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:12.068 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:13.075 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:14.082 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:15.089 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:16.096 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:17.104 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:18.111 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:19.121 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:20.129 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:21.136 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:22.143 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:23.150 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:24.158 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:25.165 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:26.173 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:27.179 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:28.187 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:29.194 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:30.201 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:31.208 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:32.217 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:33.224 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:34.232 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:35.239 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:36.245 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:37.254 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:38.264 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:39.272 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:40.282 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:41.290 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:42.300 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:43.309 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:44.319 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:45.330 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:46.339 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:47.348 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:48.358 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:49.367 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:50.377 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:51.387 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:52.397 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:53.407 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:54.417 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:55.426 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:56.435 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:57.445 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:58.454 ] Internet connectivity is not available while updating candles
+2018-07-07 09:10:59.463 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:00.471 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:01.479 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:02.489 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:03.502 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:04.513 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:05.521 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:06.530 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:07.541 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:08.551 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:09.561 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:10.571 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:11.582 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:12.590 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:13.599 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:14.607 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:15.616 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:16.625 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:17.631 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:18.639 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:19.646 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:20.655 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:21.664 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:22.671 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:23.678 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:24.686 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:25.693 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:26.700 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:27.709 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:28.716 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:29.724 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:30.731 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:31.739 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:32.746 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:33.753 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:34.760 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:35.768 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:36.776 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:37.783 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:38.790 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:39.799 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:40.807 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:41.815 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:42.823 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:43.834 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:44.841 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:45.848 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:46.855 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:47.862 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:48.869 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:49.877 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:50.885 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:51.893 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:52.899 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:53.907 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:54.914 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:55.924 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:56.931 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:57.940 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:58.950 ] Internet connectivity is not available while updating candles
+2018-07-07 09:11:59.960 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:00.973 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:01.984 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:02.997 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:04.014 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:05.023 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:06.034 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:07.044 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:08.051 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:09.059 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:10.068 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:11.077 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:12.088 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:13.095 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:14.104 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:15.112 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:16.119 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:17.126 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:18.134 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:19.141 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:20.149 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:21.156 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:22.163 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:23.169 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:24.178 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:25.188 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:26.196 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:27.204 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:28.213 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:29.221 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:30.229 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:31.237 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:32.244 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:33.251 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:34.260 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:35.266 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:36.274 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:37.282 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:38.288 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:39.296 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:40.303 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:41.310 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:42.318 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:43.327 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:44.335 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:45.343 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:46.350 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:47.358 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:48.366 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:49.376 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:50.384 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:51.390 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:52.397 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:53.404 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:54.413 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:55.421 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:56.428 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:57.434 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:58.441 ] Internet connectivity is not available while updating candles
+2018-07-07 09:12:59.450 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:00.458 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:01.465 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:02.478 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:03.486 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:04.496 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:05.504 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:06.512 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:07.522 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:08.534 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:09.546 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:10.576 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:11.584 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:12.593 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:13.600 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:14.609 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:15.615 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:16.623 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:17.630 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:18.637 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:19.645 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:20.653 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:21.661 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:22.669 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:23.677 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:24.687 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:25.695 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:26.704 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:27.713 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:28.723 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:29.734 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:30.744 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:31.753 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:32.762 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:33.777 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:34.797 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:35.806 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:36.816 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:37.825 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:38.858 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:39.865 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:40.873 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:41.882 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:42.889 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:43.897 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:44.905 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:45.914 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:46.923 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:47.932 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:48.941 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:49.950 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:50.960 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:51.970 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:52.979 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:53.988 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:54.998 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:56.008 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:57.016 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:58.024 ] Internet connectivity is not available while updating candles
+2018-07-07 09:13:59.036 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:00.052 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:01.060 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:02.072 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:03.080 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:04.088 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:05.096 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:06.106 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:07.116 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:08.125 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:09.132 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:10.140 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:11.147 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:12.155 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:13.162 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:14.169 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:15.176 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:16.182 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:17.190 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:18.199 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:19.207 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:20.216 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:21.224 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:22.233 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:23.241 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:24.249 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:25.256 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:26.262 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:27.270 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:28.277 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:29.284 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:30.291 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:31.299 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:32.307 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:33.316 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:34.325 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:35.332 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:36.341 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:37.347 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:38.356 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:39.363 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:40.372 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:41.382 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:42.390 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:43.399 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:44.409 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:45.416 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:46.425 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:47.432 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:48.438 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:49.445 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:50.453 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:51.460 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:52.468 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:53.477 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:54.486 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:55.495 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:56.503 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:57.511 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:58.524 ] Internet connectivity is not available while updating candles
+2018-07-07 09:14:59.532 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:00.540 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:01.548 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:02.557 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:03.566 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:04.575 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:05.585 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:06.596 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:07.604 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:08.616 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:09.625 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:10.639 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:11.653 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:12.662 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:13.669 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:14.678 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:15.687 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:16.695 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:17.702 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:18.712 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:19.722 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:20.732 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:21.742 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:22.750 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:23.758 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:24.764 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:25.771 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:26.779 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:27.786 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:28.793 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:29.801 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:30.810 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:31.817 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:32.827 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:33.835 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:34.845 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:35.852 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:36.859 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:37.867 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:38.874 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:39.882 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:40.889 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:41.896 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:42.903 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:43.910 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:44.918 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:45.925 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:46.933 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:47.940 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:48.947 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:49.955 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:50.962 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:51.972 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:52.979 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:53.988 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:54.997 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:56.007 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:57.017 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:58.028 ] Internet connectivity is not available while updating candles
+2018-07-07 09:15:59.037 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:00.043 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:01.051 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:02.059 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:03.066 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:04.073 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:05.082 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:06.091 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:07.098 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:08.108 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:09.115 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:10.124 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:11.133 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:12.144 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:13.153 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:14.165 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:15.176 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:16.188 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:17.196 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:18.207 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:19.218 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:20.226 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:21.235 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:22.244 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:23.253 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:24.262 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:25.271 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:26.281 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:27.291 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:28.300 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:29.308 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:30.316 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:31.325 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:32.334 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:33.340 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:34.347 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:35.356 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:36.363 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:37.372 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:38.379 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:39.387 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:40.396 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:41.405 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:42.413 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:43.422 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:44.430 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:45.439 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:46.446 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:47.453 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:48.460 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:49.468 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:50.476 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:51.484 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:52.491 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:53.498 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:54.506 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:55.512 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:56.519 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:57.527 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:58.535 ] Internet connectivity is not available while updating candles
+2018-07-07 09:16:59.543 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:00.556 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:01.564 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:02.572 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:03.581 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:04.589 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:05.595 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:06.603 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:07.611 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:08.619 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:09.627 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:10.634 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:11.642 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:12.650 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:13.658 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:14.666 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:15.674 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:16.684 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:17.691 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:18.702 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:19.713 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:20.723 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:21.733 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:22.744 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:23.760 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:24.770 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:25.778 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:26.791 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:27.801 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:28.813 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:29.821 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:30.829 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:31.837 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:32.846 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:33.854 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:34.863 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:35.871 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:36.880 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:37.889 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:38.898 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:39.907 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:40.917 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:41.925 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:42.935 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:43.945 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:44.954 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:45.963 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:46.970 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:47.979 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:48.988 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:49.996 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:51.007 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:52.015 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:53.022 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:54.031 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:55.039 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:56.055 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:57.061 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:58.070 ] Internet connectivity is not available while updating candles
+2018-07-07 09:17:59.078 ] Internet connectivity is not available while updating candles
+2018-07-07 09:18:00.087 ] Internet connectivity is not available while updating candles
+2018-07-07 09:18:01.097 ] Internet connectivity is not available while updating candles
+2018-07-07 09:18:02.107 ] Internet connectivity is not available while updating candles
+2018-07-07 09:37:12.328 ] Internet connectivity is not available while updating candles
+2018-07-07 09:37:13.334 ] Internet connectivity is not available while updating candles
+2018-07-07 09:37:14.345 ] Internet connectivity is not available while updating candles
+2018-07-07 09:37:15.354 ] Internet connectivity is not available while updating candles
+2018-07-07 09:37:16.370 ] Internet connectivity is not available while updating candles
+2018-07-07 09:37:17.459 ] Internet connectivity is not available while updating candles

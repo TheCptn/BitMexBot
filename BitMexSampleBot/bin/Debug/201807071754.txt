@@ -1,0 +1,6 @@
+2018-07-07 17:55:23.119 ] Internet connectivity is not available
+2018-07-07 17:55:33.163 ] Internet connectivity is not available
+2018-07-07 17:55:43.203 ] Internet connectivity is not available
+2018-07-07 17:55:53.240 ] Internet connectivity is not available
+2018-07-07 17:56:03.275 ] Internet connectivity is not available
+2018-07-07 17:56:13.324 ] Internet connectivity is not available

@@ -1,0 +1,23 @@
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe.config
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.csprojResolveAssemblyReference.cache
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.Form1.resources
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.Properties.Resources.resources
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.GenerateResource.Cache
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\BitMexSampleBot.pdb
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.exe
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master\BitMexSampleBot\obj\Debug\BitMexSampleBot.pdb
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe.config
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.exe
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.pdb
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\BitMexSampleBot.exe
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\BitMexSampleBot.pdb
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.csprojResolveAssemblyReference.cache
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.Form1.resources
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.Properties.Resources.resources
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\obj\Debug\BitMexSampleBot.csproj.GenerateResource.Cache
+C:\Users\LP\Documents\Projects\New Crypto Projects\Rene Chauvet\BitMexBot-master V2.0\BitMexSampleBot\bin\Debug\websocket-sharp-with-proxy-support.dll

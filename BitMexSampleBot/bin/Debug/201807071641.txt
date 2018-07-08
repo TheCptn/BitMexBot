@@ -1,0 +1,7 @@
+2018-07-07 16:42:06.112 ] Internet connectivity is not available
+2018-07-07 16:42:25.882 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.0
+2018-07-07 16:42:27.822 ] Successfully placed sell order
+2018-07-07 16:42:36.052 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.0
+2018-07-07 16:42:39.443 ] Successfully modified order
+2018-07-07 16:42:53.027 ] Successfully modified order
+2018-07-07 16:42:56.040 ] no crossover, EMA1 still below EMA2, Keep short position open, close any longs if they are still open.0

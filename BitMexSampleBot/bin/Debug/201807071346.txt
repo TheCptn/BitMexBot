@@ -1,0 +1,148 @@
+2018-07-07 13:50:26.595 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:31.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:34.588 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:38.609 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:39.586 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:43.590 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:44.583 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:48.578 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:52.583 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:53.553 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:50:57.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:01.586 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:05.581 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:09.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:13.587 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:14.555 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:18.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:21.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:25.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:28.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:31.572 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:32.558 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:35.586 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:40.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:44.580 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:48.581 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:52.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:51:56.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:00.580 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:04.581 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:08.578 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:12.586 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:15.585 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:19.595 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:23.590 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:26.572 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:30.590 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:34.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:37.587 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:41.590 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:44.578 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:49.585 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:53.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:52:57.580 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:00.583 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:04.580 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:07.575 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:10.590 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:14.587 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:18.586 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:21.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:25.586 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:29.576 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:33.592 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:36.577 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:40.577 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:44.576 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:47.579 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:50.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:53.576 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:53:57.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:02.581 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:05.578 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:09.573 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:13.576 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:16.584 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:17.591 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:20.578 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:24.591 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:28.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:32.583 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:36.586 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:39.585 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:43.587 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:47.579 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:50.581 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:53.576 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:54.577 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:54:57.590 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:01.577 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:05.583 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:08.575 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:12.576 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:15.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:19.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:23.589 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:26.578 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:27.553 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:30.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:34.586 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:38.582 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:42.590 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:45.583 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:46.560 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:49.590 ] no crossover,  MACDLine still below MACDSignalLine, We'll need to make sure we don't have a position open.
+2018-07-07 13:55:53.584 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:55:57.582 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:01.583 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:01.710 ] Successfully placed buy order
+2018-07-07 13:56:02.557 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:05.581 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:06.577 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:09.586 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:13.213 ] Successfully modified buy order price
+2018-07-07 13:56:13.583 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:17.576 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:21.579 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:24.144 ] Successfully modified buy order price
+2018-07-07 13:56:25.583 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:29.578 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:33.592 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:34.557 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:35.166 ] Successfully modified buy order price
+2018-07-07 13:56:37.592 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:38.587 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:41.579 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:42.555 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:45.579 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:46.097 ] Successfully modified buy order price
+2018-07-07 13:56:49.583 ] the last full candle have MACDLine cross above MACDSignalLine?  We'll need to buy now.
+2018-07-07 13:56:52.578 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:56:55.580 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:56:56.890 ] Successfully cancelled all open orders
+2018-07-07 13:56:59.580 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:03.584 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:07.594 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:10.576 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:14.569 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:17.576 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:20.568 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:24.582 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:28.573 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:32.594 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:35.587 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:38.587 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:42.584 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:45.576 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:49.588 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:52.587 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:55.582 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:58.584 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:57:59.574 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:58:03.585 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:58:07.583 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:58:11.593 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:58:15.578 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:58:19.656 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.
+2018-07-07 13:58:23.571 ] no crossover,  MACDLine still above MACDSignalLine, We'll need to leave our position open.

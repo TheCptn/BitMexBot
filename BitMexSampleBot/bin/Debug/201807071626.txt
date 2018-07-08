@@ -1,0 +1,8 @@
+2018-07-07 16:27:00.716 ] Internet connectivity is not available
+2018-07-07 16:27:15.576 ] the last full candle have EMA1 cross above EMA2,  Triggers a buy in switch setting.6527.5
+2018-07-07 16:27:25.612 ] the last full candle have EMA1 cross above EMA2,  Triggers a buy in switch setting.6528
+2018-07-07 16:27:35.692 ] the last full candle have EMA1 cross above EMA2,  Triggers a buy in switch setting.6528
+2018-07-07 16:27:55.668 ] the last full candle have EMA1 cross above EMA2,  Triggers a buy in switch setting.6528
+2018-07-07 16:28:05.633 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.6527.5
+2018-07-07 16:28:15.654 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.6528
+2018-07-07 16:28:35.646 ] no crossover, EMA1 still above EMA2, Keep long position open, close any shorts if they are still open.6527.5

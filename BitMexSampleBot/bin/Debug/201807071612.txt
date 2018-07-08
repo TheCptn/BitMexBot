@@ -1,0 +1,10 @@
+2018-07-07 16:12:46.357 ] Internet connectivity is not available
+2018-07-07 16:13:04.413 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:13:19.248 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:13:23.946 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:13:29.921 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:13:39.275 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:13:49.221 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:13:54.211 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:14:04.410 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
+2018-07-07 16:14:14.625 ] no crossover, MA1 still below MA2, Keep short position open, close any longs if they are still open.
